@@ -2,6 +2,7 @@
 
 ## 형태소 선택
 ![image](https://github.com/user-attachments/assets/64cb1a6e-8c0b-4ae9-98a3-7ffa3ad9504c)
+- 인터넷 용어 특성상 불규칙한 띄어쓰기, 유행어, 줄임말 등을 예측에 있어서 성능이 뛰어난 모델을 선정
 - 예측률이 가장 높은 mecab 선택
 
 ## 데이터셋
