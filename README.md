@@ -11,6 +11,6 @@
 - 이전에 제작해둔 [BS_Scraper](https://github.com/brownnyi/BS_scraper)를 활용하여 인벤 사이트의 유저의 글들을 스크래핑 하여 감정분석 실시
 
 ## 시각화
-![image](https://github.com/user-attachments/assets/fb9c05fe-83b8-408e-8526-1dec15960eaa)
+![image](https://github.com/user-attachments/assets/ec66f728-058e-47a1-a198-ba2c09857feb)
 
 - 부정 라벨링된 문장들을 WordCloud를 통해 시각화
