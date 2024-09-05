@@ -1,4 +1,4 @@
-자연어 처리 형태소 분석기인 Konlpy Okt를 활용하여 문장의 감정을 분석하는 프로젝트
+# 자연어 처리 형태소 분석기인 Konlpy Okt를 활용하여 문장의 감정을 분석하는 프로젝트
 
 ![image](https://github.com/user-attachments/assets/239e2036-cac5-4ff8-a1bf-a2bfa358881a)
 
