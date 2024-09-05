@@ -11,7 +11,7 @@
 ## 데이터셋
 ![image](https://github.com/user-attachments/assets/239e2036-cac5-4ff8-a1bf-a2bfa358881a)
 
-- 이전에 제작해둔 [BS_crawler](https://github.com/brownnyi/BS_scraper](https://github.com/brownnyi/BS_crawler)를 활용하여 인벤 사이트의 유저의 글들을 스크래핑 하여 감정분석 실시
+- 이전에 제작해둔 [BS_crawler](https://github.com/brownnyi/BS_crawler)를 활용하여 인벤 사이트의 유저의 글들을 스크래핑 하여 감정분석 실시
 
 ## 시각화
 ![image](https://github.com/user-attachments/assets/ec66f728-058e-47a1-a198-ba2c09857feb)
