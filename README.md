@@ -17,3 +17,6 @@
 ![image](https://github.com/user-attachments/assets/ec66f728-058e-47a1-a198-ba2c09857feb)
 
 - 부정 라벨링된 문장들을 WordCloud를 통해 시각화
+
+## 개선사항
+- KoBert와 같은 한글을 잘 이해할 수 있는 모델을 활용하여 개선하면 더 좋은 성능을 보이는 감성분석이 될 것이라고 확신
